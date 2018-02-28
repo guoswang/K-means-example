@@ -14,6 +14,6 @@ $ python k-means_example.py
 ```
 ## Result
 层次聚类结果的树状图：      
-![这里写图片描述](http://img.blog.csdn.net/20180228195504515)
+![这里写图片描述](http://img.blog.csdn.net/20180228195504515)   
 通过观察上面的树状图，我们可以将数据分为4类，聚类结果如下：    
-![这里写图片描述](http://img.blog.csdn.net/20180228195810400)
+![这里写图片描述](http://img.blog.csdn.net/20180228195810400)    

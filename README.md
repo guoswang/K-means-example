@@ -17,3 +17,5 @@ $ python k-means_example.py
 ![这里写图片描述](http://img.blog.csdn.net/20180228195504515)   
 通过观察上面的树状图，我们可以将数据分为4类，聚类结果如下：    
 ![这里写图片描述](http://img.blog.csdn.net/20180228195810400)    
+## References
+http://blog.csdn.net/elaine_bao/article/details/50242867

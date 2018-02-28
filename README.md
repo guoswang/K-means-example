@@ -5,7 +5,7 @@
 ## Usage
 **Step 1.** Download this repository with git or click the [download ZIP ](https://github.com/guoswang/K-means-example.git)button
 ```
-$ https://github.com/guoswang/K-means-example.git
+$ git clone https://github.com/guoswang/K-means-example.git
 $ cd K-means-example
 ```
 **Step 2.** run k-means_example.py

@@ -8,7 +8,7 @@
 $ https://github.com/guoswang/K-means-example.git
 $ cd K-means-example
 ```
-**Step 2.**run k-means_example.py
+**Step 2.** run k-means_example.py
 ```
 $ python k-means_example.py
 ```
